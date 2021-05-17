@@ -1,0 +1,15 @@
+{
+    "short_name": "Virtual Diamond Token",
+    "name": "VD Token",
+    "icons": [
+      {
+        "src": "/site/favicon.ico"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#0c0f13",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#0c0f13",
+    "description": "Virtual Diamond token website"
+  }
